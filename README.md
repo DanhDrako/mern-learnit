@@ -9,7 +9,6 @@
 <p>2. Open terminal</p>
 <p>--server</p>
 <p>cd server</p>
-<p>new file </p>
 <p>npm run server</p>
 </p>
 <p>--client</p>
